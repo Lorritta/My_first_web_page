@@ -53,7 +53,9 @@ nav ul li a:hover {
 
 #about-me,
 #projects,
-#skills {
+#skills,
+#my-Hobbies,
+#my-address {
     padding: 40px;
     max-width: 960px;
     margin: 0 auto;
